@@ -1,17 +1,19 @@
-# app_final_clean_v2
+# @babel/helpers
 
-A new Flutter project.
+> Collection of helper functions used by Babel transforms.
 
-## Getting Started
+See our website [@babel/helpers](https://babeljs.io/docs/babel-helpers) for more information.
 
-This project is a starting point for a Flutter application.
+## Install
 
-A few resources to get you started if this is your first Flutter project:
+Using npm:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+```sh
+npm install --save-dev @babel/helpers
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+or using yarn:
+
+```sh
+yarn add @babel/helpers --dev
+```
